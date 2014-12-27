@@ -1,0 +1,20 @@
+{
+  "name": "dynamite_js",
+  "version": "1.0.0",
+  "description": "Javascript backend",
+  "main": "compiler.js",
+  "dependencies": {
+    "escodegen": "^1.4.3",
+    "esprima": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spetz911/dynamite_js.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Baskakov",
+  "license": "MIT"
+}
